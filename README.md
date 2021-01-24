@@ -15,3 +15,10 @@ npm install react-chartjs-2 chart.js
 npm install gh-pages --save-dev
 `
 
+## Pulisshing in github pages
+homepage: https://dheepdatascigit.github.io/react_realtime_plot/
+
+`shell
+npm run build
+npm run deploy
+`
