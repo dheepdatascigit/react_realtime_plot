@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_realtime_plot/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react_realtime_plot/static/js/main.ea73d77f.chunk.js",
+    "main.js.map": "/react_realtime_plot/static/js/main.ea73d77f.chunk.js.map",
+    "runtime-main.js": "/react_realtime_plot/static/js/runtime-main.d33a4b99.js",
+    "runtime-main.js.map": "/react_realtime_plot/static/js/runtime-main.d33a4b99.js.map",
+    "static/js/2.f73e0535.chunk.js": "/react_realtime_plot/static/js/2.f73e0535.chunk.js",
+    "static/js/2.f73e0535.chunk.js.map": "/react_realtime_plot/static/js/2.f73e0535.chunk.js.map",
+    "static/js/3.ddc73e2e.chunk.js": "/react_realtime_plot/static/js/3.ddc73e2e.chunk.js",
+    "static/js/3.ddc73e2e.chunk.js.map": "/react_realtime_plot/static/js/3.ddc73e2e.chunk.js.map",
+    "index.html": "/react_realtime_plot/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react_realtime_plot/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f73e0535.chunk.js.LICENSE.txt": "/react_realtime_plot/static/js/2.f73e0535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33a4b99.js",
+    "static/js/2.f73e0535.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ea73d77f.chunk.js"
+  ]
+}
