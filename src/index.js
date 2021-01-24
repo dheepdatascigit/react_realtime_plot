@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App name="John"/>
+    <App name="Real-Time plot"/>
   </React.StrictMode>,
   document.getElementById('root')
 );

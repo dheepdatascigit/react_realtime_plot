@@ -5,3 +5,7 @@ React with realtime plots
 `shell
 npx create-react-app .
 `
+
+## Chart library
+`shell
+npm install react-chartjs-2 chart.js
