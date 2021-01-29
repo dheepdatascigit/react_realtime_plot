@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import {Line} from 'react-chartjs-2'
+import './StartStopTimer.css'
 
 class StartStopTimer extends Component {
     constructor(props) {
@@ -62,7 +63,9 @@ class StartStopTimer extends Component {
         return (
             <div>
                 <h2>Random number is {this.state.randNumber}</h2>
-                <Line data={this.state.plotData} width={200} height={100}/>
+                <div className="chart-container">
+                    <Line data={this.state.plotData}/>
+                </div>
             </div>
         )
     }
